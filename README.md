@@ -1,6 +1,5 @@
 # weddinghall
-
-A new Flutter project.
+This Banquet hall booking application usin Flutter.
 
 ## Output
 <br>
