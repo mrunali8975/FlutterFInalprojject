@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "677082423661",
+    "firebase_url": "https://flutterfirebase-b4bd1-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirebase-b4bd1",
+    "storage_bucket": "flutterfirebase-b4bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677082423661:android:87c785ab14b467ddd03a64",
+        "android_client_info": {
+          "package_name": "com.example.banquet_hall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677082423661-tcbd8h381og74nuic1uuo6dsbe5v1ufr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXisRJ0kTzCSVtX9U5AhxhCeXrVFBmNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677082423661-tcbd8h381og74nuic1uuo6dsbe5v1ufr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677082423661:android:7b83a664d6a6b646d03a64",
+        "android_client_info": {
+          "package_name": "com.example.myflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677082423661-tcbd8h381og74nuic1uuo6dsbe5v1ufr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXisRJ0kTzCSVtX9U5AhxhCeXrVFBmNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677082423661-tcbd8h381og74nuic1uuo6dsbe5v1ufr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677082423661:android:14779dd3a9bc8bb5d03a64",
+        "android_client_info": {
+          "package_name": "com.example.weddinghall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677082423661-tcbd8h381og74nuic1uuo6dsbe5v1ufr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXisRJ0kTzCSVtX9U5AhxhCeXrVFBmNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677082423661-tcbd8h381og74nuic1uuo6dsbe5v1ufr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
